@@ -6,7 +6,7 @@
 SwathPath <- file.path(system.file(package='RSwath'),'swath-0.3.4')
 SwathdictPath <- file.path(system.file(package='RSwath'),'swath-0.3.4','swath')
 
-swath <- function(inputfile,outputfile, verbose = FALSE, delimitor = NULL, format = NULL, method = NULL) {
+rswath <- function(inputfile,outputfile, verbose = FALSE, delimitor = NULL, format = NULL, method = NULL) {
   if(verbose){
     vb <- '-v'
   }else{
