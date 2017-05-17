@@ -7,4 +7,3 @@ Maintainer: Sompob Saralamba <saralamba@gmail.com>
 Description: RSwath - the R interface to SWATH for Windows.
 License: GNU General Public License version 2.0 or later.
 Encoding: UTF-8
-LazyData: true
