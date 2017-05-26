@@ -1,6 +1,6 @@
 
 ##
-## sakngoi@hotmail.com
+## saralamba@gmail.com
 # just for Fun
 ##
 SwathPath <- file.path(system.file(package='RSwath'),'swath-0.3.4')
