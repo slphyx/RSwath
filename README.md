@@ -6,3 +6,10 @@ The R interface to Swath (Smart Word Analysis for THai https://linux.thai.net/pr
 library("devtools")
 install_github("slphyx/RSwath")
 ```
+
+### Using RSwath
+```{r eval=FALSE}
+library("RSwath")
+rswath(inputfile="testTH.txt",outputfile="testTHX.txt")
+```
+![](http://www.sakngoi.com/wp-content/uploads/rswathexample.png)
