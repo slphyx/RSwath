@@ -12,4 +12,5 @@ install_github("slphyx/RSwath")
 library("RSwath")
 rswath(inputfile="testTH.txt",outputfile="testTHX.txt")
 ```
+![](http://www.sakngoi.com/wp-content/uploads/2017/05/swath.png)
 ![](http://www.sakngoi.com/wp-content/uploads/rswathexample.png)
